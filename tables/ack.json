@@ -1,0 +1,22 @@
+{
+	"NOAA" : "national oceanic and atmospheric administration",
+	"NWS" : "national weather service",
+	"NHC" : "national hurricane center",
+	"FIR" : "flight information region",
+	"WS" : "SIGMET",
+	"WST" : "convective SIGMET",
+	"WA" : "AIRMET",
+
+	"AMD" : "ammended",
+	"COR" : "correction",
+	"UPDT" : "update",
+	"RMK" : "remark",
+	"ACK" : "acknowledge",
+
+	"OTLK" : "outlook",
+	"FCST" : "forecast",
+	"ADVY" : "advisory",
+	"CAVOK" : "ceiling and visibility OK",
+	"CAVU" : "ceiling and visibility unlimited",
+	"NSW" : "no significant weather"
+}
